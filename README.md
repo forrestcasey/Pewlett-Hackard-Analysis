@@ -19,7 +19,7 @@
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
   - No, there are only 1,549 retirement-ready employees that are eligibile for mentorship. We need more to be eligible to fill this amount of retiring employees.
 
-- The deliverable instructions have limited the query to just the birth date of the employees eligibile for mentorship, rather than relfect the years worked in addition, or even separately to, this analysis. Adding this additional filter, and the years hired, will add the amount of eligible employees for mentorship. Otherwise, that would be an incredible amount of pressure on the 1549 employees, limited by just their age, rather than experience. This would also make more sense logically, that age does not single-handedly define and correlate to someones experience within a company. 
+- The deliverable instructions have limited the query to just the birth date of the employees eligibile for mentorship, rather than reflect the years worked in addition, or even separately to, this analysis. Adding this additional filter, and the years hired, will add the amount of eligible employees for mentorship. Otherwise, that would be an incredible amount of pressure on the 1549 employees, limited by just their age, rather than experience. This would also make more sense logically, that age does not single-handedly define and correlate to someones experience within a company. 
 ![work_experience_vs_age.png](https://github.com/forrestcasey/Pewlett-Hackard-Analysis/blob/main/Schema/work_experience_vs_age.png)
 
 
